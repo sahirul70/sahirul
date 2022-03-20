@@ -1,0 +1,25 @@
+.services .service-item {
+    text-align: center;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.services .service-item .icon {
+    font-size: 50px;
+    margin-bottom: 10px;
+    line-height: 1em;
+    color: #222;
+}
+
+.services .service-item h4 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.services .service-item p {
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
