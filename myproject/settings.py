@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     #Third party apps
     'cloudinary_storage',
     'cloudinary',
-    "heroku-20",
 ]
 
 MIDDLEWARE = [
